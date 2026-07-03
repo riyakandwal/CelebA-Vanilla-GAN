@@ -1,0 +1,6 @@
+archive/
+img_align_celeba/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pth
